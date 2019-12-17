@@ -9,9 +9,11 @@ jobs:
     - uses: actions/checkout@v2
     - name: Nodejs Setup
       uses: actions/setup-node@v1.1.0
-    - name: Install
+    - name: Install npm packages
       run: npm i
-    - name: Build
+    - name: composer install
+      uses: nick-zh/composer@v0.2.0
+    - name: Build npm app
       run: npm run production
     - name: deploy-via-scp
       uses: horochx/deploy-via-scp@master
