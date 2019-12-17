@@ -16,8 +16,8 @@ jobs:
     - name: deploy-via-scp
       uses: horochx/deploy-via-scp@v1.0.1
       with:
-        local: ./build_production
-        remote: ~/host/website/
+        local: build_production
+        remote: /home/humba/host/website/
         host: server.max.berlin
         user: humba
         key: ${{ secrets.HUMBA_PRIVATE_SSH_KEY }}
