@@ -20,4 +20,4 @@ jobs:
         remote: ~/host/website/
         host: server.max.berlin
         user: humba
-        key: 
+        key: ${{ secrets.HUMBA_PRIVATE_SSH_KEY }}
