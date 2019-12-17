@@ -1,0 +1,23 @@
+name: Jigsaw Build + Deploy 
+on: 
+  push:
+    branches: master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Nodejs Setup
+      uses: actions/setup-node@v1.1.0
+    - name: Install
+      run: npm i
+    - name: Build
+      run: npm build production
+    - name: deploy-via-scp
+      uses: horochx/deploy-via-scp@v1.0.1
+      with:
+        local: ./build_production
+        remote: ~/host/website/
+        host: server.max.berlin
+        user: humba
+        key: ${{ secrets.HUMBA_PRIVATE_SSH_KEY }}
