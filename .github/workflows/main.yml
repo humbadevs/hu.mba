@@ -7,10 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Nodejs Setup
+    - name: Node Setup
       uses: actions/setup-node@v1.1.0
-    - name: Install npm packages
-      run: npm i
+    - name: Composer Setup
+      uses: nanasess/composer-installer-action@v2.0.0
+    - name: Install packages
+      run: |
+        npm i
+        composer install
     - name: composer-installer-action
       uses: nanasess/composer-installer-action@v2.0.0
     - name: Build npm app
