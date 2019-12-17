@@ -11,8 +11,8 @@ jobs:
       uses: actions/setup-node@v1.1.0
     - name: Install npm packages
       run: npm i
-    - name: composer install
-      uses: nick-zh/composer@v0.2.0
+    - name: composer-installer-action
+      uses: nanasess/composer-installer-action@v2.0.0
     - name: Build npm app
       run: npm run production
     - name: deploy-via-scp
