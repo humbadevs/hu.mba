@@ -20,7 +20,7 @@
         <a class="shadow-lg text-center object-center bg-red-y hover:shadow-outline text-white font-bold py-3 px-10 lg:py-3 lg:px-10   text-base lg:text-base rounded-xl" href='intro.html'> Erfahre mehr </a>
       </div>
       <div class=" pr-0 lg:pr-0 pt-24 lg:pt-8 sm:pt-6 sm:pr-16 md:pr-0  ">
-        <a class="inline" href="#unten"> <img class="h-5 m-auto" src="Images/Scroll_down.png" alt="Scroll_down"> </a>
+        <a class="inline" href="#unten"> <svg class="h-16 m-auto text-white fill-stroke" fill="currentColor" viewBox="0 0 20 20" class="w-8 h-8"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg> </a>
       </div>
     </div>
   </div>
