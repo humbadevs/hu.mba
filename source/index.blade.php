@@ -33,8 +33,8 @@
         <div class="inline w-8/12 lg:w-9/12  sm:w-6.5/12 text-white pl-16">
           <div class="font-semibold text-6xl lg:text-45xl  sm:text-5xl  xl:text-7xl leading-tighter"> Alleine die Pause oder Freistunde verbringen? </div>
           <div class=" pt-8 pb-10 lg:pb-4 sm:pb-4  text-xl lg:text-base  sm:text-sm xl:text-xl font-semibold w-10/12 lg:w-10/12 sm:w-12/12  "> Das ist zumindestens meistens nicht dein Ziel. Viel mehr Spaß; und Freude bringt es mit anderen zusammen
-            diese Zeit zu verbringen. Wenn deine Freunde nun keine Zeit haben ist es mit der Hilfe von Humba m&ouml;glich Menschen, welche dennoch in deinem Alter sind, zu finden, welche auch frei haben. </div>
-          <a class=" inline-block bg-gray-800 rounded-xl shadow-xl hover:shadow-outline font-semibold text-lg sm:text-sm lg:text-lg py-2 px-6" href='about.htm'> Ich m&ouml;chte nicht allein sein </a>
+            diese Zeit zu verbringen. Wenn deine Freunde nun keine Zeit haben ist es mit der Hilfe von Humba möglich Menschen, welche dennoch in deinem Alter sind, zu finden, welche auch frei haben. </div>
+          <a class=" inline-block bg-gray-800 rounded-xl shadow-xl hover:shadow-outline font-semibold text-lg sm:text-sm lg:text-lg py-2 px-6" href='about.htm'> Ich möchte nicht allein sein </a>
         </div>
       </div>
     </div>
@@ -44,10 +44,10 @@
       <div class="inline-flex">
         <div class="inline w-8/12 pl-16 lg:pl-16 sm:pl-6">
           <div class="font-semibold text-red-xxx text-6xl lg:text-45xl sm:text-5xl xl:text-7xl  leading-tighter"> Rabatte bei Läden in deiner Umgebung? </div>
-          <div class="  pt-8 pb-10 lg:pb-4 sm:pb-4 text-xl lg:text-base sm:text-sm text-gray-400 font-semibold w-10/12 lg:w-10/12 sm:w-full xl:text-xl  "> Das k&ouml;nnen wir dir bieten, indem wir mit einigen Partnern spezielle Angebote f&uuml;r
-            unsere Nutzer ausgehandelt haben. Viel g&uuml;nstiger ist es dann f&uuml;r dich vorallem bei Essensläden. Als Benutzer von humba sparst du bis zu 30% bei deinem Einkauf in ausgewählten Partnerläden. Und das beste ist, dass
-            du f&uuml;r jeden Einkauf Punkte bekommst, welche du später f&uuml;r noch mehr Angebote einl&ouml;sen kannst. </div>
-          <a class="text-gray-100 inline-block bg-red-x rounded-xl shadow-xl hover:shadow-outline font-semibold text-lg lg:text-lg sm:text-sm py-2 px-6  " href='about.htm'> Ich m&ouml;chte g&uuml;nstiger essen </a>
+          <div class="  pt-8 pb-10 lg:pb-4 sm:pb-4 text-xl lg:text-base sm:text-sm text-gray-400 font-semibold w-10/12 lg:w-10/12 sm:w-full xl:text-xl  "> Das können wir dir bieten, indem wir mit einigen Partnern spezielle Angebote für
+            unsere Nutzer ausgehandelt haben. Viel günstiger ist es dann für dich vorallem bei Essensläden. Als Benutzer von humba sparst du bis zu 30% bei deinem Einkauf in ausgewählten Partnerläden. Und das beste ist, dass
+            du für jeden Einkauf Punkte bekommst, welche du später für noch mehr Angebote einlösen kannst. </div>
+          <a class="text-gray-100 inline-block bg-red-x rounded-xl shadow-xl hover:shadow-outline font-semibold text-lg lg:text-lg sm:text-sm py-2 px-6  " href='about.htm'> Ich möchte günstiger essen </a>
         </div>
         <div class="   inline pt-12 lg:pt-12 sm:pt-16">
           <div class=""> <img src="Images/rabatte.png" alt="Lonely" class="h-auto m-auto pr-10"> </div>
@@ -64,7 +64,7 @@
         </div>
         <div class="inline  w-8/12  text-white pl-24">
           <div class=" font-semibold text-6xl lg:text-45xl sm:text-5xl pr-4 lg:pr-4 sm:pr-32 xl:text-7xl leading-tighter"> Du magst doch deine Freunde, oder? </div>
-          <div class="pt-8 pb-10 lg:pb-4 sm:pb-4 text-xl lg:text-base sm:text-sm  xl:text-xl font-semibold w-10/12"> Bestimmt, sonst w&uuml;rdest du sie ja nicht deine Freunde nennen - also hoffen wir. Auf humba ist es dir m&ouml;glich dich sicher
+          <div class="pt-8 pb-10 lg:pb-4 sm:pb-4 text-xl lg:text-base sm:text-sm  xl:text-xl font-semibold w-10/12"> Bestimmt, sonst würdest du sie ja nicht deine Freunde nennen - also hoffen wir. Auf humba ist es dir möglich dich sicher
             mit deinen Freunden zu verbinden und im Austausch mit diesen zu bleiben. </div>
           <a class="inline-block bg-gray-800   rounded-xl shadow-xl hover:shadow-outline font-semibold text-lg lg:text-lg sm:text-sm py-2 px-6 " href='register'> Ich mag meine Freunde </a>
         </div>
