@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <link rel="stylesheet" href="/assets/css/main.css">
+        <link rel="stylesheet" href="/output.css">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap" rel="stylesheet">
         <link rel="shortcut icon" type="image/svg" href="/assets/images/logo.png" />
         <!-- Primary Meta Tags -->
