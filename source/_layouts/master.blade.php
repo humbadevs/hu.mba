@@ -40,7 +40,7 @@
               setTimeout(function(){
                 document.getElementById("page").style.display = "block";
                 document.getElementById("loading").style.display = "none";
-              }, 3500);
+              }, 200);
             }
         </script>
     </head>
