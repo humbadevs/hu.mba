@@ -11,7 +11,6 @@
         <a class="inline  m-auto px-6 lg:px-6 md:px-2 sm:px-2   hover:text-red-special" href="intro.html"> WIE ES FUNKTIONIERT </a>
         <a class="inline  m-auto px-6 hover:text-red-special" href="about.htm"> ABOUT </a>
         <a class="inline  m-auto px-6 hover:text-red-special" href="partner.html"> PARTNERS </a>
-        <a class="inline  m-auto px-6 hover:text-red-special" href="stats.html"> STATS </a>
       </div>
       <div class=" bg-gray-800 pt-24 sm:pt-16 md:pt-16 w-7/12  sm:w-4/12   sm:w-10/12   lg:pt-12 lg:w-8/12 xl:w-12/12  ">
         <div class="text-white text-7xl sm:text-6xl  lg:text-7xl md:text-7xl xl:text-9xl font-bold tracking-tight xl:tracking-tight leading-tight"> Mache mehr aus deiner Pause - humba. </div>
