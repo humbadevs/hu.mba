@@ -43,10 +43,10 @@
     <div class="pt-32 lg:pt-12 sm:pt-12">
       <div class="inline-flex">
         <div class="inline w-8/12 pl-16 lg:pl-16 sm:pl-6">
-          <div class="font-semibold text-red-xxx text-6xl lg:text-45xl sm:text-5xl xl:text-7xl  leading-tighter"> Rabatte bei L&auml;den in deiner Umgebung? </div>
+          <div class="font-semibold text-red-xxx text-6xl lg:text-45xl sm:text-5xl xl:text-7xl  leading-tighter"> Rabatte bei Läden in deiner Umgebung? </div>
           <div class="  pt-8 pb-10 lg:pb-4 sm:pb-4 text-xl lg:text-base sm:text-sm text-gray-400 font-semibold w-10/12 lg:w-10/12 sm:w-full xl:text-xl  "> Das k&ouml;nnen wir dir bieten, indem wir mit einigen Partnern spezielle Angebote f&uuml;r
-            unsere Nutzer ausgehandelt haben. Viel g&uuml;nstiger ist es dann f&uuml;r dich vorallem bei Essensl&auml;den. Als Benutzer von humba sparst du bis zu 30% bei deinem Einkauf in ausgew&auml;hlten Partnerl&auml;den. Und das beste ist, dass
-            du f&uuml;r jeden Einkauf Punkte bekommst, welche du sp&auml;ter f&uuml;r noch mehr Angebote einl&ouml;sen kannst. </div>
+            unsere Nutzer ausgehandelt haben. Viel g&uuml;nstiger ist es dann f&uuml;r dich vorallem bei Essensläden. Als Benutzer von humba sparst du bis zu 30% bei deinem Einkauf in ausgewählten Partnerläden. Und das beste ist, dass
+            du f&uuml;r jeden Einkauf Punkte bekommst, welche du später f&uuml;r noch mehr Angebote einl&ouml;sen kannst. </div>
           <a class="text-gray-100 inline-block bg-red-x rounded-xl shadow-xl hover:shadow-outline font-semibold text-lg lg:text-lg sm:text-sm py-2 px-6  " href='about.htm'> Ich m&ouml;chte g&uuml;nstiger essen </a>
         </div>
         <div class="   inline pt-12 lg:pt-12 sm:pt-16">
