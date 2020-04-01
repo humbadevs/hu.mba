@@ -3,9 +3,9 @@
 @section('body')
 <div id="page">
   <div class="bg-gray-800  h-screen p-16 lg:p-12 sm:p-0 sm:pl-6 sm:pt-16">
-    <div class=" ">
+    <div class="">
       <div class=" inline-flex text-red-special font-bold text-md lg:text-base sm:text-xs md:text-xs ">
-        <a class="inline  m-auto pr-6 " href="home.htm"> <img class="h-16 lg:h-16 " src="Images/Logo_black.png  " alt="Logo"> </a>
+        <a class="inline  m-auto pr-6 " href="home.htm"> <img class="h-16 lg:h-16 " src="Images/Logo_black.png" alt="Logo"> </a>
         <a class="inline  m-auto px-6 lg:px-6 md:px-2 sm:px-2   hover:text-red-special" href="intro.html"> WIE ES FUNKTIONIERT </a>
         <a class="inline  m-auto px-6 hover:text-red-special" href="about.htm"> ABOUT </a>
         <a class="inline  m-auto px-6 hover:text-red-special" href="partner.html"> PARTNERS </a>
