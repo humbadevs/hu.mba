@@ -29,7 +29,7 @@
     <div class="pt-16 md:pt-0 lg:pt-0 sm:pt-0">
       <div class="inline-flex">
         <div class="inline pt-12 pl-0 lg:pl-0 lg:pt-12 sm:pt-16 sm:pl-6   ">
-          <div class=""> <img src="Images/lonely.png" alt="Lonely" class="h-auto m-auto "> </div>
+          <div class=""> <img src="/assets/images/illustrations/in-the-night.svg" alt="In the night" class="h-auto m-auto "> </div>
         </div>
         <div class="inline w-8/12 lg:w-9/12  sm:w-6.5/12 text-white pl-16">
           <div class="font-semibold text-6xl lg:text-45xl  sm:text-5xl  xl:text-7xl leading-tighter"> Alleine die Pause oder Freistunde verbringen? </div>
@@ -51,7 +51,7 @@
           <a class="text-gray-100 inline-block bg-red-x rounded-xl shadow-xl hover:shadow-outline font-semibold text-lg lg:text-lg sm:text-sm py-2 px-6  " href='about.htm'> Ich möchte günstiger essen </a>
         </div>
         <div class="   inline pt-12 lg:pt-12 sm:pt-16">
-          <div class=""> <img src="Images/rabatte.png" alt="Lonely" class="h-auto m-auto pr-10"> </div>
+          <div class=""> <img src="/assets/images/illustrations/discount.svg" alt="Discount" class="h-auto m-auto pr-10"> </div>
         </div>
       </div>
     </div>
@@ -61,7 +61,7 @@
     <div class="pt-32 lg:pt-12 sm:pt-12  ">
       <div class="inline-flex">
         <div class="inline pt-16">
-          <div class=""> <img src="Images/friends.png" alt="Lonely" class="h-auto m-auto pl-10"> </div>
+          <div class=""> <img src="/assets/images/illustrations/pizza-sharing.svg" alt="Sharing Pizza with Friends" class="h-auto m-auto pl-10"> </div>
         </div>
         <div class="inline  w-8/12  text-white pl-24">
           <div class=" font-semibold text-6xl lg:text-45xl sm:text-5xl pr-4 lg:pr-4 sm:pr-32 xl:text-7xl leading-tighter"> Du magst doch deine Freunde, oder? </div>
@@ -81,7 +81,7 @@
         <a href="datenschutz.htm" class="px-2"> datenschutz </a>
         <a href="nutzung.htm" class="px-2"> nutzung </a>
       </div>
-      <div class="text-gray-100 pb-10 pt-2"> &copy; 2019 Humba Team </div>
+      <div class="text-gray-100 pb-10 pt-2"> &copy; 2020 HUMBA </div>
     </div>
   </div>
 </div>
